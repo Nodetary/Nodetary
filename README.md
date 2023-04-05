@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the development of my:
-a. mvp for my crypto start-up, DocuWerx - is an A.I. Enabled, scalable & Blockchain-based solution Removing Fraud and Error from the automotive, business      and mortgage lending industries, creating a better way to verify documents boosting security and efficiency.
-b. the development of my decentralized alter ego which is really just a an easier way of saying what i cant say 
-c. the development of my decentralized alter ego's vodcast, newsletter, and Blogdepth articles, i will post the links on here soon 
-d. being an ENS DAO Memeber 
-e. being an active member and collaborator of https://github.com/smartcontractresearchforum
+a. MVP an Intelligent Blockchain Notarization & NFTokenization Platform for Motor Vehicles or Vessels. Notaries Remotely Legalize Contracts, e-Signs & Ownership Rights between the Buyer & Dealer, Lender, Seller, or Trader. Quickly, Transparently & No-Hassle.
+b. @Blockdepth.eth my decentralized alter ego's blog publication(s) an outlet of to dispell the misconceptions surrounding the decentralized technologies, such as A.I., Blockchain and Web3. Infact, going forward I will not longer refer to it as Web3 the more adepquate term. We are developing a new iteration of the internet, The Internet of People, we should just call it, IoP becasue it is not just about the IoT it is about us, the people. If you are interested into reading my trailblazing and thought leading ideas of decentralized technologies, please visit https://Blockdepth.xyz
+c. I am still a member of the ENS DAO 
+d. As wekll as an active member and collaborator of https://github.com/smartcontractresearchforum
 
 
 - 🌱 I’m currently learning: 
@@ -26,7 +25,7 @@ b. write more decentralized articles
 c. 
 
 - 🤔 I’m looking for help with
-a. funding, for DocuWerx 
+a. I would like to find potential investors for my startup, DocuWerx | oNaaS 
 b. more exposure, articles, media etc. 
 
 - 💬 Ask me about 
@@ -34,5 +33,5 @@ a. any of the aforementioned information, i'm easy to talk to and bounce ideas.
 
 - 📫 How to reach me:"
 a. well if you know me then you know how otherwise reaserch how 
-
+b. twitter.com/docuwerx
 -->
