@@ -88,3 +88,4 @@ Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaa
   eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization Provenance.
   
 ```
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
