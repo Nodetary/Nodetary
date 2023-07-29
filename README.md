@@ -1,7 +1,5 @@
 
 
-https://storage.blockdepth.xyz/9017e88c-8ef5-4f26-8921-5abbbfc066f5-bucket/GIF/Jan23_DWX-SpinningGlobe.mov
-
 
 ``` yaml
 Name: Costa Vega
