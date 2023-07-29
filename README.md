@@ -1,3 +1,8 @@
+
+
+https://storage.blockdepth.xyz/9017e88c-8ef5-4f26-8921-5abbbfc066f5-bucket/GIF/Jan23_DWX-SpinningGlobe.mov
+
+
 ``` yaml
 Name: Costa Vega
 
@@ -88,5 +93,3 @@ Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaa
   eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization Provenance.
 
 ```
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
