@@ -1,37 +1,90 @@
-### Hi there 👋
+``` yaml
+Name: Costa Vega
 
-<!--
-**DWXFounder/DWXFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Located in: Silicon Hills
 
-Here are some ideas to get you started:
+Company: DocuWerx Corp
 
-- 🔭 I’m currently working on the development of my:
-a. MVP an Intelligent Blockchain Notarization & NFTokenization Platform for Motor Vehicles or Vessels. Notaries Remotely Legalize Contracts, e-Signs & Ownership Rights between the Buyer & Dealer, Lender, Seller, or Trader. Quickly, Transparently & No-Hassle.
-b. @Blockdepth.eth my decentralized alter ego's blog publication(s) an outlet of to dispell the misconceptions surrounding the decentralized technologies, such as A.I., Blockchain and Web3. Infact, going forward I will not longer refer to it as Web3 the more adepquate term. We are developing a new iteration of the internet, The Internet of People, we should just call it, IoP becasue it is not just about the IoT it is about us, the people. If you are interested into reading my trailblazing and thought leading ideas of decentralized technologies, please visit https://Blockdepth.xyz
-c. I am still a member of the ENS DAO 
-d. As wekll as an active member and collaborator of https://github.com/smartcontractresearchforum
+Title: CEO & Tech Founder 
+
+Expertise: 
+
+	BA Graphic Design
+  Certified Scrum Master
+	Autodidact Software Developer
+	
 
 
-- 🌱 I’m currently learning: 
-a. Python, 
-b. TypeScript, 
-c. Rust, 
-d. Solidity, and 
-e. how to be a better writer and vodcaster 
+Fields of Interest:
 
-- 👯 I’m looking to collaborate on: 
-a. more proposals with the ENS DAO 
-b. write more decentralized articles
-c. 
+	Software and Mobile App Development
+	Decentralized Technologies
+	Artificial Intelligence
+	Blockchain
+	Non-Fungible Tokens
+	Notarial Service Industry
 
-- 🤔 I’m looking for help with
-a. I would like to find potential investors for my startup, DocuWerx | oNaaS 
-b. more exposure, articles, media etc. 
+Technical Background:
 
-- 💬 Ask me about 
-a. any of the aforementioned information, i'm easy to talk to and bounce ideas. 
+	Tech Support Agent
+	Tech Business Analyst
+	Scrum Master
+	Software Developer
+	Director of Modernization
+	Chief Executive Officer
+ 
 
-- 📫 How to reach me:"
-a. well if you know me then you know how otherwise reaserch how 
-b. twitter.com/docuwerx
--->
+Hobbies: Audiobles and hiking with my two dogs
+Actively_learning: Rust, Typescript, Tailwind, Solidity
+Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaaS
+
+
+  In these capacities, I led teams of developers and business stakeholders through critical business 
+  impediments, ensuring successful project outcomes for organizations such as New American Funding
+  Mortgage and Baylor Scott & White Health Plan.
+
+  I am grateful for the opportunity of advancing through collaborative roles in both private and public 
+  enterprises to find myself stepping into the role of Director of Modernization for the 
+  Health and human services commission of Texas, Medicaid & chip enterprise applications and Systems 
+  where my focus shifted to driving innovation and keeping pace with the ever-changing technological
+  landscape.
+
+  Nevertheless, the COVID-19 pandemic led me to reevaluate my path. During this time of introspection,
+  I stepped down from my director role and instead explored my civic duty, which inspired me to become
+  a notary public.
+
+  Unbeknownst to me, this led me to an opportunity that, with my passion for business, technology, and
+  civic development, made me identify the need for a radical modernization of the notarial services industry.
+  
+  These experiences have groomed my expertise in software development, instilling in me a SaaS-centric mindset 
+  and polishing me as a servant leader. As the Vanguard visionary Chief Executive Officer & Tech-Founder of 
+  DocuWerx Corp, I lead the charge in Revolutionizing the Notarial Services Industry. I am committed to 
+  reforming the lending industry's and clients' current synergy.
+  
+  With a laser focus on Remote Online Notarizations, our groundbreaking platform,
+  on-chain-Notary-Platform-as-a-Service™ or oNaaS™, offers an innovative solution that transcends the
+  boundaries of Authentication, Reliability & Legality of eContracts & eSignatures for Business Notarizations
+  in our Great State of Texas and Beyond.
+  
+  Harnessing the power of Artificial Intelligence & the Avant-Garde potential of Blockchain, Smart Contracts
+  such as Non-Fungible Tokens (NFTs) empower the legally binding notarization that materializes with
+  unparalleled speed and strict security.
+  
+  DocuWerx Corp is at the pinnacle of innovation, leveraging these impenetrable and verifiable technologies, 
+  safeguarding clients from counterfeit eContracts and questionable eSignatures, and ensuring an era of trust
+  without compromise. As a trailblazing thought leader in decentralized technologies, I am passionate about
+  exploring new and innovative ways to apply the principles of decentralization to various industries and sectors.
+  
+  I've created an elucidating protocol of our complex concepts, and unfamiliar ideas, to bridge the gap between
+  decentralization and the enterprise. Our enabling protocol is intended to foster a client community with a deep
+  understanding of distributed ledgers, consensus mechanisms, and peer-to-peer networks to push the boundaries of
+  what is possible with decentralized technology.
+  
+  DocuWerx's ethos empowers the embodiment of the erosion of trust and reliance on centralized control systems,
+  marking the dawn of  a new era that stewards a future of decentralization, self-sovereignty liberation, and the
+  freedom of our data privacy.
+
+  This commitment is tangible evidence of my commitment and a legacy that will protect clients from counterfeit
+  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization Provenance.
+  
+```
