@@ -1,5 +1,4 @@
 
-![76695A6B-9ADE-4208-9ED7-BCEF114E4110_1_201_a](https://github.com/AiNFTNotaryCEO/AiNFTNotaryCEO/assets/106583148/caa50d6f-03d1-4336-88d7-617d6ed3ea6a)
 
 
 ``` yaml
@@ -10,7 +9,6 @@ Located in: Silicon Hills
 Company: DocuWerx Corp
 
 Title: CEO & Tech Founder 
-
 Expertise: 
 
 	BA Graphic Design
