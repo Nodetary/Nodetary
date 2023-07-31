@@ -82,8 +82,8 @@ Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaa
   
   DocuWerx's ethos empowers the embodiment of the erosion of trust and reliance on centralized control systems,
   marking the dawn of  a new era that stewards a future of decentralization, self-sovereignty liberation, and the
-  freedom of our data privacy. This commitment is tangible evidence of my commitment and a legacy that will protect
-  clients from counterfeit  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization
+  freedom of our data privacy. This tangible evidence of my commitment and a legacy that will protect clients 
+  from counterfeit  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization
   Provenance.
 
 ```
