@@ -12,7 +12,7 @@ Title: CEO & Tech Founder
 Expertise: 
 
 	BA Graphic Design
-  Certified Scrum Master
+  	Certified Scrum Master
 	Autodidact Software Developer
 	
 
