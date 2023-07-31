@@ -12,7 +12,7 @@ Title: CEO & Tech Founder
 Expertise: 
 
 	BA Graphic Design
-  	Certified Scrum Master
+  Certified Scrum Master
 	Autodidact Software Developer
 	
 
@@ -46,17 +46,15 @@ Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaa
   Mortgage and Baylor Scott & White Health Plan.
 
   I am grateful for the opportunity of advancing through collaborative roles in both private and public 
-  enterprises to find myself stepping into the role of Director of Modernization for the 
-  Health and human services commission of Texas, Medicaid & chip enterprise applications and Systems 
-  where my focus shifted to driving innovation and keeping pace with the ever-changing technological
-  landscape.
+  enterprises to find myself stepping into the role of Director of Modernization for the Health and Human
+  services commission of Texas, Medicaid & chip enterprise applications and Systems where my focus shifted
+  to drive innovation and keep pace with the ever-changing technological landscape.
 
   Nevertheless, the COVID-19 pandemic led me to reevaluate my path. During this time of introspection,
   I stepped down from my director role and instead explored my civic duty, which inspired me to become
-  a notary public.
-
-  Unbeknownst to me, this led me to an opportunity that, with my passion for business, technology, and
-  civic development, made me identify the need for a radical modernization of the notarial services industry.
+  a notary public. Unbeknownst to me, this led me to an opportunity that, with my passion for business,
+  technology, and civic development, made me identify the need for a radical modernization of the notarial
+  services industry.
   
   These experiences have groomed my expertise in software development, instilling in me a SaaS-centric mindset 
   and polishing me as a servant leader. As the Vanguard visionary Chief Executive Officer & Tech-Founder of 
@@ -84,9 +82,8 @@ Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaa
   
   DocuWerx's ethos empowers the embodiment of the erosion of trust and reliance on centralized control systems,
   marking the dawn of  a new era that stewards a future of decentralization, self-sovereignty liberation, and the
-  freedom of our data privacy.
-
-  This commitment is tangible evidence of my commitment and a legacy that will protect clients from counterfeit
-  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization Provenance.
+  freedom of our data privacy. This commitment is tangible evidence of my commitment and a legacy that will protect
+  clients from counterfeit  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization
+  Provenance.
 
 ```
