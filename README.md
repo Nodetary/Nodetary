@@ -41,49 +41,26 @@ Actively_learning: Rust, Typescript, Tailwind, Solidity
 Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaaS™.
 
 
-  In these capacities, I led teams of developers and business stakeholders through critical business 
-  impediments, ensuring successful project outcomes for organizations such as New American Funding
-  Mortgage and Baylor Scott & White Health Plan.
+Combining over a decade-long tenure in Software Development & Agile Methodologies through collaborative roles
+in the Private and Public Enterprises' corporate ladders. I have accumulated a bolstered array of certifications
+across Business Analysis, Scrum Mastery, SAFE®, AI, Blockchain & Smart Contracts, further systematically enriching
+my software development understanding. 
 
-  I am grateful for the opportunity to advance through collaborative roles in both private and public 
-  enterprises to find myself stepping into the role of Director of Modernization for the Health and Human
-  Services Commission of Texas, Medicaid & CHIP Enterprise Applications and Systems where my focus shifted
-  to drive innovation and keep pace with the ever-changing technological landscape.
+Throughout my career, I have successfully led development teams and business stakeholders to overcome complex
+impediments and deliver innovative solutions. I have worked with prestige organizations such as The Health and
+Human Services Commission of Texas, Centene Corp, and New American Funding.
 
-  Nevertheless, the COVID-19 pandemic led me to reevaluate my path. During this time of introspection,
-  I stepped down from my Director Role and instead explored my Civic Duty, which inspired me to become
-  a Notary Public. Unbeknownst to me, this led me to an opportunity that, with my passion for business,
-  technology, and civic development, made me identify the need for a radical modernization of the Notarial
-  Services Industry.
-  
-  These experiences have groomed my expertise in Software Development, instilling in me a SaaS-centric mindset 
-  and polishing me as a Servant Leader. As the Vanguard Visionary Chief Executive Officer & Tech-Founder of 
-  DocuWerx Corp, I lead the charge in Revolutionizing the Notarial Services Industry. I am committed to 
-  reforming the Lending Industry's and Clients' current Synergy.
-  
-  With a laser focus on Remote Online Notarizations, our groundbreaking
-  onChain-Notarial-Platform-as-a-Service™ or oNaaS™, offers an innovative solution that transcends the
-  boundaries of Authentication, Reliability & Legality of eContracts & eSignatures for Business Notarizations
-  in our Great State of Texas and Beyond.
-  
-  Harnessing the power of Artificial Intelligence & the Avant-Garde potential of Blockchain, Smart Contracts
-  such as Non-Fungible Tokens (NFTs) empower the Legally Binding Notarization that materializes with
-  unparalleled speed and strict security.
-  
-  DocuWerx Corp is at the pinnacle of innovation, leveraging these impenetrable and verifiable technologies, 
-  safeguarding clients from counterfeit eContracts and questionable eSignatures, and ensuring an Era of Trust
-  without Compromise. As a trailblazing thought leader in decentralized technologies, I am passionate about
-  exploring new and innovative ways to apply the Principles of Decentralization to various Industries and Sectors.
-  
-  I've created an Elucidating Protocol of our Complex Concepts, and unfamiliar ideas, to bridge the gap between
-  Decentralization and The Enterprise. Our enabling protocol is intended to foster a Client Community with a deep
-  understanding of Distributed Ledgers, Consensus Mechanisms, and Peer-to-Peer Networks to push the boundaries of
-  what is possible with Decentralized Technology.
-  
-  DocuWerx's Ethos empowers the Embodiment of the Erosion of Trust and Reliance on Centralized Controlled Systems,
-  marking the Dawn of  a New Era that Stewards a Future of Decentralization, Self-Sovereignty Liberation, and the
-  Freedom of our Data Privacy. This tangible evidence of my commitment and a legacy that will protect Clients 
-  from counterfeit  eContracts and questionable eSignatures, forever establishing DocuWerx Corp Notarization
-  Provenance.
+DocuWerx Corp is poised at the forefront of avant-garde solutions anchored in developing at unparalleled speed
+and stringent measures for legally binding notarizations. Combating counterfeit contracts, questionable signatures,
+and fraudulent identities. 
+
+With a laser focus on developing the next evolution of Remote Online Notarizations, I became the leading architect
+of our flagship technology, I proudly introduce onChain-Notarial-Platform-as-a-Service™ (oNaaS™). The pinnacle of
+innovation transcending today’s contract and signature authenticity accomplishments, adding to the peaked ceilings
+new heights with Blockchain structures, Artificial Intelligence, Non-Fungible Tokens (NFTs).
+
+As the Vanguard Tech Founder and Chief Executive Officer, I initiated a radical modernization through decentralized
+technologies that underpin the ethos within my SaaS organization — leading the charge in revolutionizing the Notarial
+Services Industry to cement DocuWerx Corp Notarization Provenance.
 
 ```
